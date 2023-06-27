@@ -23,11 +23,11 @@ Użytkownik ma możliwość:
 - sprawdzenia oceny rozwiązanego testu
 
 Projetk został stworzony przy użyciu technologii: 
--PHP
--JavaScript
--JQuery
--Ajax
--Bootstrap
--HTML i CSS
+- PHP
+- JavaScript
+- JQuery
+- Ajax
+- Bootstrap
+- HTML i CSS
 
 
