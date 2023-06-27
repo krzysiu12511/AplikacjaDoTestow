@@ -1,0 +1,131 @@
+.gradient-custom {
+    /* fallback for old browsers */
+    background: #6a11cb;
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+    color:white;
+}
+
+.one-edge-shadow {
+    box-shadow: 0 8px 10px 0px black;
+  }
+
+nav {
+    color: white;
+   
+}
+.poprawna {
+    color:green;
+}
+.active {
+    border-bottom: 1px solid white;
+}
+.carousel-item {
+    height: 65vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.row {
+    margin-bottom: 20px;
+}
+.block{
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+    border-top: 2px solid #e0e0e0;
+    color:black;
+    font-weight: 600; 
+}
+.center-text {
+    text-align: center;
+}
+.zakonczTest {
+    font-size: 25px;
+}
+
+.mojedane {
+    margin: auto;
+    width: 50%;
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+    color: black;
+    font-size: 30px;
+}
+
+.mojegrupy,.mojepytania,.grupy,.mojtest,.mojesprawdziany,.test {
+    margin: auto;
+    width: 100%;
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+    color: black;
+    font-size: 30px;
+}
+.test:not(:last-child){
+    margin-bottom : 10px;
+}
+
+.float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+}
+ 
+.mojagrupa .row:first-child{
+    border-bottom: 3px dashed black;
+}
+
+.testy{
+    border-top: 2px dashed gray
+}
+.mojedane .row:not(:last-child) {
+    border-bottom: 2px dashed gray;
+}
+.mojegrupy .row:not(:last-child) {
+    border-bottom: 2px dashed gray;
+}
+.grupy .row:not(:last-child) {
+    border-bottom: 2px dashed gray;
+}
+.DodajPytanie{
+    font-size: 18px;
+}
+.DodajKategorie,.DodajGrupe,.DodajUcznia,.DodajTest{
+    margin-top:10px;
+    font-size: 18px;
+}
+.pytania{
+    margin-top:0.7rem;
+}
+.mojtest label {
+    font-size: 22px;
+}
+input[type="radio"] {
+    margin-top: 12px;
+
+}
+
+
+
+@media screen and (max-width: 768px) {
+    body{
+        font-size: 0.9rem;
+    }
+    
+    .DodajGrupe,.DodajUcznia,.DodajKategorie,.DodajPytanie,.DodajTest{
+        font-size: 0.8rem;
+    }
+
+}
+
+
+
+
+
+
