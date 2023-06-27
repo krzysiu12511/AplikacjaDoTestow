@@ -4,6 +4,7 @@ Jestem studentem Politechniki Opolskiej.
 W ramach mojej pracy inzynierskiej stworzyłem portal mający usprawnić przeprowadzanie testów zdalnych w szkołach.
 
 Założenia projektowe realizują zadania takie jak: 
+
 Konto nauczycielskie ma przypisaną kategorię „nauczyciel”
 Użytkownik ma możliwość:
 - tworzenia testów
