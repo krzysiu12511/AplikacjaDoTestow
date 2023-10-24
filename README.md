@@ -46,7 +46,7 @@ Aby korzystać z portalu, konieczne jest posiadanie:
 
 ## Autor
 
-Ten projekt został stworzony przez [Krzysztof Juszczak], studenta Politechniki Opolskiej.
+Ten projekt został stworzony przez Krzysztof Juszczak, studenta Politechniki Opolskiej.
 
 ## Licencja
 
